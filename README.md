@@ -12,7 +12,7 @@ These files must be released under the Attribution - Non-Commercial Use - No Der
 
 ## Site
 
-Strona www: https://ExtremeOnly.net.pl/www/
-Forum: https://ExtremeOnly.net.pl
+Strona www: https://ExtremeOnly.net.pl/www/<br />
+Forum: https://ExtremeOnly.net.pl<br />
 Discord: https://discord.gg/2WQAXMNtn3
 
